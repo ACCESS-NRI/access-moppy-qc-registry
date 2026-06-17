@@ -16,7 +16,7 @@ test.
 
 ## Dashboard
 
-**→ [Open dashboard](https://rbeucher.github.io/access-moppy-qc-registry/)**
+**→ [Open dashboard](https://access-nri.github.io/access-moppy-qc-registry/)**
 
 Four views are available:
 

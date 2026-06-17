@@ -4,7 +4,7 @@
  * Reads registry.json (compiled by scripts/compile_registry.py).
  */
 
-const GITHUB_REPO = "rbeucher/access-moppy-qc-registry";
+const GITHUB_REPO = "access-nri/access-moppy-qc-registry";
 const REGISTRY_URL = "registry.json";
 const ADDITIONAL_CATEGORIES = ["spatial", "temporal", "data"];
 const GITHUB_NEW_ISSUE_URL = `https://github.com/${GITHUB_REPO}/issues/new/choose`;

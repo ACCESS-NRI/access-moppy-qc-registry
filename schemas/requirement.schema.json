@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/rbeucher/access-moppy-qc-registry/schemas/requirement.schema.json",
+  "$id": "https://github.com/access-nri/access-moppy-qc-registry/schemas/requirement.schema.json",
   "title": "QC Requirement",
   "description": "A layered (check, variable, experiment) assignment tuple with requirement class",
   "type": "object",
