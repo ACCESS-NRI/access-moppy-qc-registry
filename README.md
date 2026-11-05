@@ -116,4 +116,4 @@ Dependencies: `pyyaml`, `jsonschema` (Python 3.10+).
 
 ## Licence
 
-MIT
+[MIT](LICENSE).
